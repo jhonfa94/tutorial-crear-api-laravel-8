@@ -1,4 +1,6 @@
-# Tutorial de como crear una API con Laravel 8
+<img src="https://laravel.com/img/logomark.min.svg">
+
+<h1>Tutorial de como crear una API con Laravel 8</h1>
 
 # [API con Laravel 8](https://luifer1994.github.io/doc-api-laravel-8/)<br />
 
